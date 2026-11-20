@@ -1,4 +1,4 @@
-# todo_list_app 📝
+# taskforge app 📝
 
 **A simple yet functional To-Do List application built with Flutter.**
 
