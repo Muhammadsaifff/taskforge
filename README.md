@@ -24,7 +24,7 @@ This project is a starting point for a Flutter application, providing a basic st
 
 ## About the Project ℹ️
 
-The `todo_list_app` is a straightforward application designed to help users manage their daily tasks. It provides a clean interface for adding, viewing, and potentially managing to-do items. While the current implementation appears to be a foundational Flutter project, it lays the groundwork for a robust task management system.
+The `taskforge app` is a straightforward application designed to help users manage their daily tasks. It provides a clean interface for adding, viewing, and potentially managing to-do items. While the current implementation appears to be a foundational Flutter project, it lays the groundwork for a robust task management system.
 
 ---
 
@@ -56,8 +56,8 @@ This project was initiated as a Flutter project. To run this application, you'll
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Muhammadsaifff/todo_list_app.git
-   cd todo_list_app
+   git clone https://github.com/Muhammadsaifff/taskforge.git
+   cd taskforge
    ```
 
 2. **Get Flutter dependencies:**
@@ -96,7 +96,7 @@ This application is designed for basic task management. Users can interact with 
 The project follows the standard Flutter project structure:
 
 ```
-todo_list_app/
+taskforge/
 ├── android/
 ├── ios/
 ├── lib/
